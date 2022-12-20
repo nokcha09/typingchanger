@@ -1,0 +1,14 @@
+{
+  "name": "typingchanger",
+  "version": "1.0.0",
+  "description": "change english typing to korean kyping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nokcha",
+  "license": "ISC",
+  "dependencies": {
+    "hangul-js": "^0.2.6"
+  }
+}
