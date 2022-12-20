@@ -7,11 +7,11 @@
 ### node.js
 
 ```bash
-npm install hangul-js
+npm install typingchanger
 ```
 
 ```js
-const Hangul = require("hangul-js");
+const Hangul = require("typingchanger");
 ```
 
 ### 일반 웹 페이지
