@@ -1,6 +1,6 @@
 const Hangul = require("hangul-js");
 
-exports.typingchanger = (input) => {
+exports.enTokr = (input) => {
   const english = [
     "q",
     "w",
